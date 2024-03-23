@@ -1,0 +1,2 @@
+# HinghamApp
+Genealogy web app
